@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "ES6",
+	"strict": true,
+    "noImplicitAny": true,
+    "sourceMap": true
+  },
+  	"files": []
+}
